@@ -66,4 +66,4 @@ app.post('/purchase', function(req, res) {
   })
 })
 
-app.listen(8080, '64.225.41.106')
+app.listen(PORT, IP)
